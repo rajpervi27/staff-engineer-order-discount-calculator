@@ -4,7 +4,7 @@ A small C# console application for the Staff Engineer technical screening exerci
 
 ## Requirements
 
-- .NET 8 SDK
+- .NET 10 SDK
 - No database or external service required
 - Internet access on the first test run to restore xUnit test packages
 
